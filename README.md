@@ -4,8 +4,8 @@ My name is Muhammad Zubair and I'm a web developer in progress. I'm from Germany
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6082B6)
+![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=6082B6)
+![](https://img.shields.io/badge/ORM-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6082B6)
