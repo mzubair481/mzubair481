@@ -1,5 +1,4 @@
 # Hi there <img src="https://raw.githubusercontent.com/mzubair481/mzubair481/main/wave.gif" width="30px">
-My name is Muhammad Zubair and I'm a web developer in progress. I'm from Germany
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6082B6)
