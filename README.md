@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/ORM-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6082B6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6082B6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6082B6)
