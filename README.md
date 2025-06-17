@@ -1,14 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/mzubair481/mzubair481/main/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/ORM-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6082B6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6082B6)
+![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)
+![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ## &#x1f4c8; GitHub Stats
 
